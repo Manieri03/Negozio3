@@ -24,7 +24,7 @@ namespace Negozio3
                 spesa1 = spesa1 / 2;
                 spesatotale = spesa2 + spesa1;
             }
-            Console.WriteLine($"Il prezzo totale da pagare è di {spesatotale}");
+            Console.WriteLine($"Il prezzo totale da pagare è di {spesatotale} ");
             Console.ReadLine();
         }
     }
